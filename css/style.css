@@ -211,7 +211,8 @@ img{
 }
 
 .services .all{
-    height: 300px;
+    height: auto;
+   
     padding-top: 50px;
     background-color: #fff;
 }
@@ -238,6 +239,7 @@ img{
     text-transform: capitalize;
     font-size:18px ;
     text-align: center;
+    padding-bottom: 20px;
 }
 
 
